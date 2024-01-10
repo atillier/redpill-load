@@ -1,6 +1,6 @@
 {
-  "ddsml"                 : "https://raw.githubusercontent.com/PeterSuh-Q3/tcrp-modules/master/ddsml/rpext-index.json",    
-  "eudev"                 : "https://raw.githubusercontent.com/PeterSuh-Q3/tcrp-modules/master/eudev/rpext-index.json",  
+  "ddsml"                 : "https://raw.githubusercontent.com/atillier/tcrp-modules/master/ddsml/rpext-index.json",    
+  "eudev"                 : "https://raw.githubusercontent.com/atillier/tcrp-modules/master/eudev/rpext-index.json",  
   "acpid"                 : "https://raw.githubusercontent.com/PeterSuh-Q3/tcrp-addons/master/acpid/rpext-index.json",    
   "automount"             : "https://raw.githubusercontent.com/PeterSuh-Q3/tcrp-addons/master/automount/rpext-index.json",
   "thethorgroup.boot-wait": "https://raw.githubusercontent.com/PeterSuh-Q3/tcrp-addons/master/boot-wait/rpext-index.json",  
